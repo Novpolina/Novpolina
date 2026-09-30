@@ -1,10 +1,10 @@
-# Hi, I'm Polina Novikova 👋
+#  About me
 
 I'm a fourth-year student at the Moscow Institute of Physics and Technology (MIPT) and a compiler engineer at YADRO.
 
 I work with C++, compiler infrastructure, test and RTL generators, MLIR, LLVM IR, and Chisel. I'm especially interested in compiler technologies, high-performance computing, hardware-efficient machine learning, and robotics.
 
-## Selected projects
+## Some projects
 
 - [TensorCompile](https://github.com/Novpolina/TensorCompile) — an AOT ONNX tensor compiler built with MLIR and LLVM.
 - [Kernels](https://github.com/Novpolina/Kernels) — optimized C++ implementations of GEMM and Conv2D.
